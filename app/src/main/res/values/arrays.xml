@@ -1,0 +1,11 @@
+<resources>
+
+<string-array name="country_values" translatable="false">
+    <item>Korea</item>
+    <item>China</item>
+    <item>Japan</item>
+    <item>America</item>
+    <item>NewZealand</item>
+</string-array>
+
+</resources>
